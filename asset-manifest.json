@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/GithubFinder/static/css/main.3b2cff53.chunk.css",
+    "main.js": "/GithubFinder/static/js/main.26a6738d.chunk.js",
+    "main.js.map": "/GithubFinder/static/js/main.26a6738d.chunk.js.map",
+    "runtime-main.js": "/GithubFinder/static/js/runtime-main.a165abdf.js",
+    "runtime-main.js.map": "/GithubFinder/static/js/runtime-main.a165abdf.js.map",
+    "static/js/2.99bd92aa.chunk.js": "/GithubFinder/static/js/2.99bd92aa.chunk.js",
+    "static/js/2.99bd92aa.chunk.js.map": "/GithubFinder/static/js/2.99bd92aa.chunk.js.map",
+    "static/js/3.a132357d.chunk.js": "/GithubFinder/static/js/3.a132357d.chunk.js",
+    "static/js/3.a132357d.chunk.js.map": "/GithubFinder/static/js/3.a132357d.chunk.js.map",
+    "index.html": "/GithubFinder/index.html",
+    "static/css/main.3b2cff53.chunk.css.map": "/GithubFinder/static/css/main.3b2cff53.chunk.css.map",
+    "static/js/2.99bd92aa.chunk.js.LICENSE.txt": "/GithubFinder/static/js/2.99bd92aa.chunk.js.LICENSE.txt",
+    "static/media/gith.11ebf10e.svg": "/GithubFinder/static/media/gith.11ebf10e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a165abdf.js",
+    "static/js/2.99bd92aa.chunk.js",
+    "static/css/main.3b2cff53.chunk.css",
+    "static/js/main.26a6738d.chunk.js"
+  ]
+}
